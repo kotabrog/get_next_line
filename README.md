@@ -13,7 +13,7 @@ A function created in C language that reads a file line by line.
 
 ```
 git clone ...
-cd libft
+cd get_next_line
 make
 ```
 A library called libft.a will be created, so compile it with the main file you want to use.  
