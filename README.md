@@ -2,7 +2,7 @@
 
 ## Overview
 
-A function created in C language that reads a file line by line.
+A function created in C that reads a file line by line.
 
 ## Requirement
 
